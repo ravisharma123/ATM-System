@@ -1,0 +1,25 @@
+atma1 (the fisrt input is a choice of atms, input can be atma1, atma2, atmb1, atmb2)
+1234 (The second input is a card number that does not belong to either bank it is a wrong number)
+2834 (The third input is a card number that is expired)
+1479 (the next inputed card number which is valid but is used to test the three incorrect password case in which it is kept. The system asks for a new card number)
+customers (incorrect passsword)
+customerPw (incorrect password)
+pw         (incorrect password)
+4917        (new card is inputed which is valid)
+customerOnesPw (correct Password inputed)
+300            (amount to withdraw)
+Checkings      (Choice from which account since this customer has two)
+1              (value 1 is to continue using atm and -1 is to end)
+175            (amount to withdraw)
+Checkings      
+150 
+Checkings
+1           (continue)
+2            (tests minimum amount per transaction of atm)
+Savings      (Choice savings account)
+45
+Savings
+1
+55.34
+Savings
+-1        (ends thee use of atm and after a log of transactions is printed)
